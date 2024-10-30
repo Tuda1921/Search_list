@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="OK" type="id" />
+    <item name="Number" type="id" />
+    <item name="main" type="id" />
+    <item name="listView" type="id" />
+</resources>
